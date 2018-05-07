@@ -1,0 +1,1 @@
+Analyzed and visualized Van Arsdel sales using PowerBI to understand the trend of revenue and units throughout the years  
